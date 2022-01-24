@@ -1,2 +1,2 @@
 # odin-recipes
-Going to do some basic HTML with an image
+A basic HTML website using my new skills on the theme of pasta recipes.
