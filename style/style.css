@@ -17,3 +17,8 @@ h1{
 h2 {
     color: coral;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
