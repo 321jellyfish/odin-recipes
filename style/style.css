@@ -1,0 +1,19 @@
+* {
+    font-family: monospace;
+}
+
+p,
+li,
+ul,
+ol,
+a {
+    color: teal;
+}
+
+h1{
+    color: crimson;
+}
+
+h2 {
+    color: coral;
+}
